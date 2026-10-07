@@ -252,4 +252,4 @@ Through this project, I learned how to:
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+
